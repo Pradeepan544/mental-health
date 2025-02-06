@@ -11,7 +11,7 @@ This project is a mental health assessment tool built with Streamlit, using Rand
 This model was trained using two datasets:
 * Mental Health in Tech Survey
 * Depression and Anxiety Symptoms Dataset
-🔹 Preprocessing Steps
+### 🔹 Preprocessing Steps
 * ✔ Selected relevant features and target labels
 * ✔ Filled missing values with "Unknown"
 * ✔ Applied Ordinal Encoding and Label Encoding based on feature relationships
